@@ -1,4 +1,4 @@
-# no
+# MINING
 
 There are four items included in the file to enable 1.25% Zcash Mining
 
